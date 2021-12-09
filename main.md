@@ -1,3 +1,8 @@
+---
+title: 盲腸線を脱出する技術
+toc-title: 目次
+...
+
 ## まえがき
 
 この度は本書を手にとって頂き、まことにありがとうございます。
@@ -691,7 +696,7 @@ Soft Seatを選べば快適なリクライニングシートで移動できる�
 
 ![列車から見た夕景。今までで一番美しい夕景だったと思う。バンディリア旅行団を聴くとこの風景を思い出す。](images/haiphong-halong/CIMG0256.JPG){width=6cm}
 
-![ルート](images/haiphong-halong/HNALL.png){width=6cm}
+![ルート](images/haiphong-halong/HNALL.png){width=9cm}
 
 今回利用したルートは上記の通りである。
 並行しているように見えるが実際はケプとまっすぐ南にあるハイズオンの間は50キロほど離れている。
